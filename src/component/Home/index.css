@@ -30,10 +30,12 @@
   padding: 15px 0px;
   text-align: center;
   cursor: pointer;
+  margin-right: 5px;
 }
 @media (max-width: 576px) {
   .each-tab-item {
     padding: 15px;
+    margin-right: 5px;
   }
 }
 
